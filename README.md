@@ -5,5 +5,5 @@ this is some information **about** my project!!
 
 *go* to [Google](http://google.com)
 
-- first thing
+-- first thing
 - second thing
